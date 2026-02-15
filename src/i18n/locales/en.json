@@ -1,0 +1,136 @@
+{
+  "nav": {
+    "about": "About",
+    "hunting": "Hunting",
+    "included": "Services",
+    "process": "Booking",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Exclusive Hunting Club in Central Asia",
+    "description": "Licensed Trophy Hunts on the Uzbekistan–Kazakhstan Border",
+    "cta": "Request Information"
+  },
+  "about": {
+    "label": "About the Club",
+    "title": "Where Mountains Meet the Steppe",
+    "description": "Located on the southwestern slopes of the Chatkal Ridge within the Ugam-Chatkal National Park, our hunting grounds span over 35,000 hectares of pristine mountain terrain along the Uzbekistan–Kazakhstan border, part of the Tien Shan Mountain System.",
+    "area": "Hunting Area",
+    "elevation": "Elevation",
+    "climate": "Climate",
+    "season": "Season"
+  },
+  "hunting": {
+    "label": "Trophy Hunts",
+    "title": "Species & Programs",
+    "season": "Season",
+    "trophy": "Trophy Size",
+    "difficulty": "Difficulty",
+    "price": "Price",
+    "species": {
+      "ibex": {
+        "name": "Mid-Asian Ibex",
+        "latin": "Capra sibirica",
+        "season": "October — March",
+        "trophy": "Horns 100+ cm",
+        "difficulty": "High — mountain terrain, 2,000–3,000m",
+        "price": "$12,000",
+        "description": "The crown jewel of Central Asian trophy hunting. Pursued across the rugged Chatkal Ridge, these magnificent animals inhabit the highest elevations of our territory."
+      },
+      "markhor": {
+        "name": "Bukharan Markhor",
+        "latin": "Capra falconeri heptneri",
+        "season": "November — February",
+        "trophy": "Spiral horns 90+ cm",
+        "difficulty": "Very High — steep rocky terrain",
+        "price": "Price upon request",
+        "description": "One of the rarest and most coveted trophies in the world. The spiral-horned markhor is found in limited numbers across our concession areas."
+      },
+      "boar": {
+        "name": "Wild Boar",
+        "latin": "Sus scrofa",
+        "season": "Year-round",
+        "trophy": "Tusks 20+ cm",
+        "difficulty": "Moderate",
+        "price": "$2,500",
+        "description": "Abundant in the lower valleys and river basins. Driven hunts and spot-and-stalk methods available. Additional trophies at $1,500 each."
+      },
+      "roe": {
+        "name": "Roe Deer",
+        "latin": "Capreolus pygargus",
+        "season": "August — December",
+        "trophy": "Antlers 30+ cm",
+        "difficulty": "Moderate",
+        "price": "Price upon request",
+        "description": "Found in the transition zones between forest and steppe. A rewarding hunt combining woodland stalking with open-country techniques."
+      },
+      "altTrophy": "trophy hunting in Uzbekistan"
+    }
+  },
+  "included": {
+    "label": "Full Service",
+    "title": "What's Included",
+    "services": {
+      "licenses": { "label": "Hunting Licenses", "desc": "All permits and documentation" },
+      "authorization": { "label": "Legal Authorization", "desc": "Weapon import clearance" },
+      "guides": { "label": "Expert Guides", "desc": "Experienced local gamekeepers" },
+      "transport": { "label": "Transportation", "desc": "Airport transfers & field transport" },
+      "accommodation": { "label": "Accommodation", "desc": "Hunting lodge & fly camps" },
+      "board": { "label": "Full Board", "desc": "Meals throughout the expedition" },
+      "trophy": { "label": "Trophy Processing", "desc": "Primary field preparation" },
+      "cites": { "label": "CITES Assistance", "desc": "Export documentation support" }
+    },
+    "helicopter": {
+      "text": "Helicopter transfer of people and cargo available.",
+      "price": "Service from $3,300",
+      "alt": "Helicopter transfer"
+    }
+  },
+  "process": {
+    "label": "How It Works",
+    "title": "Booking Process",
+    "steps": {
+      "inquiry": { "num": "01", "title": "Inquiry", "desc": "Submit your request with preferred dates and species" },
+      "confirmation": { "num": "02", "title": "Confirmation", "desc": "We confirm availability and agree on dates" },
+      "contract": { "num": "03", "title": "Contract", "desc": "Sign the hunting service agreement" },
+      "deposit": { "num": "04", "title": "Deposit", "desc": "Secure your booking with a deposit payment" },
+      "documentation": { "num": "05", "title": "Documentation", "desc": "We handle all permits, licenses, and weapon import" },
+      "arrival": { "num": "06", "title": "Arrival", "desc": "Welcome to Uzbekistan — your expedition begins" }
+    }
+  },
+  "gallery": {
+    "label": "Gallery",
+    "title": "From the Field",
+    "rooms": "Rooms & Lodge",
+    "trophies": "Trophies",
+    "nature": "Nature"
+  },
+  "contact": {
+    "label": "Get in Touch",
+    "title": "Request Your Hunt",
+    "directContact": "Direct Contact",
+    "responseTime": "Response time",
+    "responseTimeDesc": "We respond to all inquiries within 24 hours.",
+    "name": "Your Name *",
+    "country": "Country *",
+    "email": "Email *",
+    "phone": "Phone",
+    "huntingInterest": "Hunting Interest",
+    "startDate": "Preferred Start Date",
+    "endDate": "Preferred End Date",
+    "message": "Your Message",
+    "submit": "Send Request",
+    "thankYou": "Thank You",
+    "thankYouMsg": "Your request has been received. We will contact you within 24 hours.",
+    "animals": {
+      "ibex": "Ibex",
+      "markhor": "Markhor",
+      "boar": "Wild Boar",
+      "roe": "Roe Deer"
+    },
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "instagram": "Instagram"
+  }
+}

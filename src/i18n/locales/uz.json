@@ -1,0 +1,136 @@
+{
+  "nav": {
+    "about": "Club haqida",
+    "hunting": "Ov",
+    "included": "Xizmatlar",
+    "process": "Bronlash",
+    "gallery": "Galereya",
+    "contact": "Kontaktlar"
+  },
+  "hero": {
+    "subtitle": "Markaziy Osiyoda eksklyuziv ov klubi",
+    "description": "Oʻzbekiston–Qozogʻiston chegarasidagi litsenziyalangan trophy ovlari",
+    "cta": "Ma'lumot so'rash"
+  },
+  "about": {
+    "label": "Club haqida",
+    "title": "Togʻlar stepp bilan uchrashgan joy",
+    "description": "Chatqal tizmasi janubiy-gʻarbiy qiyaligʻida joylashgan Ugam-Chatqal Milliy parkida joylashgan ovchi maydonlarimiz Oʻzbekiston–Qozogʻiston chegarasidagi 35 000 dan ortiq gektarning pristine tog' landshaftini egallaydi.",
+    "area": "Ov maydoni",
+    "elevation": "Balandlik",
+    "climate": "Iqlim",
+    "season": "Fasl"
+  },
+  "hunting": {
+    "label": "Trophy ovlari",
+    "title": "Ov turi va dasturlar",
+    "season": "Fasl",
+    "trophy": "Trophy hajmi",
+    "difficulty": "Qiyinchilik",
+    "price": "Narx",
+    "species": {
+      "ibex": {
+        "name": "Oʻrta Osiyo togʻ echkisi",
+        "latin": "Capra sibirica",
+        "season": "Oktyabr — Mart",
+        "trophy": "Shoxlar 100+ sm",
+        "difficulty": "Yuqori — togʻ relefi, 2000–3000 m",
+        "price": "$12 000",
+        "description": "Oʻrta Osiyo trophy ovining gavhari. Chatqal tizmasida, bizning eng baland yurtlarimizda yashaydi."
+      },
+      "markhor": {
+        "name": "Buxoro markhuri",
+        "latin": "Capra falconeri heptneri",
+        "season": "Noyabr — Fevral",
+        "trophy": "Spiral shoxlar 90+ sm",
+        "difficulty": "Juda yuqori — tik qoyalar",
+        "price": "Soʻrov boʻyicha",
+        "description": "Dunyodagi eng noyob va qimmatli trophylardan biri. Spiral shoxli markhur cheklangan sonida uchraydi."
+      },
+      "boar": {
+        "name": "Yovvoyi choʻchqa",
+        "latin": "Sus scrofa",
+        "season": "Yil davomida",
+        "trophy": "Tishlar 20+ sm",
+        "difficulty": "Oʻrtacha",
+        "price": "$2 500",
+        "description": "Vodiylar va daryo havzalarida koʻp. Ob'ezd va yashirin yondashuv mavjud. Qoʻshimcha trophy — har biri $1 500."
+      },
+      "roe": {
+        "name": "Sibir kiyigi",
+        "latin": "Capreolus pygargus",
+        "season": "Avgust — Dekabr",
+        "trophy": "Shoxlar 30+ sm",
+        "difficulty": "Oʻrtacha",
+        "price": "Soʻrov boʻyicha",
+        "description": "Oʻrmon va dasht oraligʻida. Oʻrmonda va ochiq joyda ov kombinatsiyasi."
+      },
+      "altTrophy": "Oʻzbekistonda trophy ov"
+    }
+  },
+  "included": {
+    "label": "To'liq xizmat",
+    "title": "Nima kiradi",
+    "services": {
+      "licenses": { "label": "Ov litsenziyalari", "desc": "Barcha ruxsatnomalar va hujjatlar" },
+      "authorization": { "label": "Qonuniy ruxsat", "desc": "Qurol importi" },
+      "guides": { "label": "Mutaxassis yo'riqnomalar", "desc": "Tajribali mahalliy egerlar" },
+      "transport": { "label": "Transport", "desc": "Aeroport va yurtlarga tashish" },
+      "accommodation": { "label": "Joylashuv", "desc": "Ov uyi va maydon lagerlari" },
+      "board": { "label": "To'liq oziq-ovqat", "desc": "Ekspeditsiya davrida ovqatlar" },
+      "trophy": { "label": "Trophy qayta ishlash", "desc": "Dala tayyorgarligi" },
+      "cites": { "label": "CITES yordam", "desc": "Eksport hujjatlari qo'llab-quvvatlash" }
+    },
+    "helicopter": {
+      "text": "Odamlar va yuklarni vertolyot orqali tashish imkoni mavjud.",
+      "price": "Xizmat narxi 3300$ dan",
+      "alt": "Vertolyot orqali tashish"
+    }
+  },
+  "process": {
+    "label": "Qanday ishlaydi",
+    "title": "Bronlash jarayoni",
+    "steps": {
+      "inquiry": { "num": "01", "title": "So'rov", "desc": "Afzal ko'rgan sanalar va ov turi bilan so'rov yuboring" },
+      "confirmation": { "num": "02", "title": "Tasdiqlash", "desc": "Biz mavjudlikni tasdiqlaymiz va sanalarni kelishiramiz" },
+      "contract": { "num": "03", "title": "Shartnoma", "desc": "Ov xizmati shartnomasini imzolang" },
+      "deposit": { "num": "04", "title": "Oldindan to'lov", "desc": "Bronni oldindan to'lov bilan mustahkamlang" },
+      "documentation": { "num": "05", "title": "Hujjatlar", "desc": "Barcha ruxsatnomalar, litsenziyalar va qurol importini biz bajaramiz" },
+      "arrival": { "num": "06", "title": "Kelish", "desc": "O'zbekistonga xush kelibsiz — ekspeditsiyangiz boshlanadi" }
+    }
+  },
+  "gallery": {
+    "label": "Galereya",
+    "title": "Maydondan",
+    "rooms": "Xonalar va lodge",
+    "trophies": "Trophylar",
+    "nature": "Tabiat"
+  },
+  "contact": {
+    "label": "Biz bilan aloqa",
+    "title": "Oʻz ovingizni so'rash",
+    "directContact": "To'g'ri aloqa",
+    "responseTime": "Javob vaqti",
+    "responseTimeDesc": "Biz barcha sorashlariga 24 soat ichida javob beramiz.",
+    "name": "Sizning ismingiz *",
+    "country": "Mamlakat *",
+    "email": "Email *",
+    "phone": "Telefon",
+    "huntingInterest": "Ov qiziqishi",
+    "startDate": "Boshlang'ich sana",
+    "endDate": "Tugash sanasi",
+    "message": "Sizning xabaringiz",
+    "submit": "Sorovni yuborish",
+    "thankYou": "Rahmat",
+    "thankYouMsg": "Sizning sorov qabul qilindi. Biz 24 soat ichida sizga murojaat qilamiz.",
+    "animals": {
+      "ibex": "Togʻ echkisi",
+      "markhor": "Markhur",
+      "boar": "Choʻchqa",
+      "roe": "Kiyik"
+    },
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "instagram": "Instagram"
+  }
+}

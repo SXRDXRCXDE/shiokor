@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Deep forest green palette */
+    --background: 150 38% 11%;        /* #0F2A1D */
+    --foreground: 37 30% 88%;          /* #E8E3D8 */
+
+    --card: 150 30% 14%;
+    --card-foreground: 37 30% 88%;
+
+    --popover: 150 30% 14%;
+    --popover-foreground: 37 30% 88%;
+
+    /* Sand / Camel accent */
+    --primary: 35 32% 61%;             /* #C2A477 */
+    --primary-foreground: 150 38% 11%;
+
+    --secondary: 35 28% 39%;           /* #8A6B3D */
+    --secondary-foreground: 37 30% 88%;
+
+    --muted: 150 20% 16%;
+    --muted-foreground: 37 15% 60%;
+
+    --accent: 35 32% 61%;
+    --accent-foreground: 150 38% 11%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 150 15% 22%;
+    --input: 150 15% 22%;
+    --ring: 35 32% 61%;
+
+    --radius: 0.25rem;
+
+    /* Custom tokens */
+    --gold: 35 32% 61%;
+    --gold-dark: 35 28% 39%;
+    --forest: 150 38% 11%;
+    --forest-light: 150 25% 18%;
+    --cream: 37 30% 88%;
+    --cream-muted: 37 15% 60%;
+
+    --sidebar-background: 150 30% 14%;
+    --sidebar-foreground: 37 30% 88%;
+    --sidebar-primary: 35 32% 61%;
+    --sidebar-primary-foreground: 150 38% 11%;
+    --sidebar-accent: 150 20% 16%;
+    --sidebar-accent-foreground: 37 30% 88%;
+    --sidebar-border: 150 15% 22%;
+    --sidebar-ring: 35 32% 61%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Source Sans 3', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cormorant Garamond', serif;
+  }
+}
+
+@layer utilities {
+  .text-gradient-gold {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(135deg, hsl(35 32% 61%), hsl(35 28% 39%));
+  }
+
+  .divider-gold {
+    @apply w-16 h-px mx-auto;
+    background: linear-gradient(90deg, transparent, hsl(35 32% 61%), transparent);
+  }
+
+  .section-padding {
+    @apply py-20 md:py-32 px-6 md:px-12 lg:px-24;
+  }
+}
